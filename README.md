@@ -1,5 +1,4 @@
 # Hi, I'm Swarnaditya Prakash 👋
-
 **BTech, Computer Science & Systems Engineering — Final Year @ KIIT University**
 
 I work across the data stack — cleaning and modeling data in Excel, querying it in SQL, visualizing it in Power BI, and analyzing it in Python. I'm open to opportunities across data and tech roles, but I'm most drawn to **business analytics, data analytics, and consulting** — using data to inform decisions, not just build dashboards.
@@ -15,7 +14,6 @@ I work across the data stack — cleaning and modeling data in Excel, querying i
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### 📜 Certifications
-
 - Google Data Analytics Professional Certificate
 - IBM Excel Basics for Data Analysis
 
@@ -23,20 +21,16 @@ I work across the data stack — cleaning and modeling data in Excel, querying i
 
 | Project | What it does | Stack |
 |---|---|---|
-| _Add after repo audit_ | | |
-| _Add after repo audit_ | | |
-| _Add after repo audit_ | | |
+| [🧠 Brain Scan Analyzer](https://github.com/Swarnaditya93/Brain-Scan-Analyzer) | CNN that classifies brain MRI scans into 4 tumor categories (Glioma, Meningioma, Pituitary, None) with 99.3% test accuracy, deployed as a Streamlit web app | PyTorch · Streamlit · CNN |
+| [📊 Data Fundamentals Project](https://github.com/Swarnaditya93/Data-Fundamentals-Project) | End-to-end data analysis of 500 e-commerce orders across four tools — Python for wrangling, SQL for querying, Matplotlib for visualization, and Excel for reporting | Python · SQL · Excel · Matplotlib |
+| [🔗 Supply Chain Risk Management](https://github.com/Swarnaditya93/Supply-Chain-Risk-Management) | Analyzes supply chain data to identify and quantify operational risks, supporting data-driven decisions on sourcing, logistics, and vendor reliability | Python · Pandas · Power BI |
 
 ### 🔭 Currently
-
 - Sharpening SQL and Power BI skills through applied, business-style case studies
 - Open to internship and full-time opportunities in data analytics / business analytics / consulting
 
 ### 📫 Reach me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnaditya-prakash)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:swarnaditya232@gmail.com)
 
 ---
-
-
