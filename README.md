@@ -39,4 +39,4 @@ I work across the data stack — cleaning and modeling data in Excel, querying i
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swarnaditya93&show_icons=true&theme=default&hide_border=true&count_private=true)
+
