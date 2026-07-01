@@ -23,7 +23,7 @@ I work across the data stack — cleaning and modeling data in Excel, querying i
 |---|---|---|
 | [🧠 Brain Scan Analyzer](https://github.com/Swarnaditya93/Brain-Scan-Analyzer) | CNN that classifies brain MRI scans into 4 tumor categories (Glioma, Meningioma, Pituitary, None) with 99.3% test accuracy, deployed as a Streamlit web app | PyTorch · Streamlit · CNN |
 | [📊 Data Fundamentals Project](https://github.com/Swarnaditya93/Data-Fundamentals-Project) | End-to-end data analysis of 500 e-commerce orders across four tools — Python for wrangling, SQL for querying, Matplotlib for visualization, and Excel for reporting | Python · SQL · Excel · Matplotlib |
-| [🔗 Supply Chain Risk Management](https://github.com/Swarnaditya93/Supply-Chain-Risk-Management) | Analyzes supply chain data to identify and quantify operational risks, supporting data-driven decisions on sourcing, logistics, and vendor reliability | Python · Pandas · Power BI |
+| [🔗 Supply Chain Risk Management][(https://github.com/Swarnaditya93/Supply-Chain-Risk-Management)](https://github.com/Swarnaditya93/Supply-Chain-Risk-Analysis) | Analyzes supply chain data to identify and quantify operational risks, supporting data-driven decisions on sourcing, logistics, and vendor reliability | Python · Pandas · Power BI |
 
 ### 🔭 Currently
 - Sharpening SQL and Power BI skills through applied, business-style case studies
